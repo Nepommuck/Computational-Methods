@@ -27,4 +27,3 @@ Individual GitHub repository
 
 - ### [Picture Analysis](Lab09/task1.ipynb)
 - ### [Optical Character Recognition](Lab09/task2.ipynb)
-<hr/>
